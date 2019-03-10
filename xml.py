@@ -10,6 +10,11 @@ def contar_caminos(doc):
 			contador += 1
 	return contador
 
+def longitud(doc):
+	lista_long = doc.xpath("/OpenData/OpenDataRow/Longitud/text()")
+	lista_id = doc.xpath("/OpenData/OpenDataRow/IdRecursoCategoria/text()")
+	return zip(lista_long,lista_id)
+
 
 from lxml import etree
 doc = etree.parse('ciclismo.xml')
