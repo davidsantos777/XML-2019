@@ -3,6 +3,13 @@ def nombreruta(doc):
 	lista_dif = doc.xpath("/OpenData/OpenDataRow/IdDificultad/text()")
 	return zip(lista_loc,lista_dif)
 
+def contar_caminos(doc):
+	contador = 0
+	for i in doc.xpath("/OpenData/OpenDataRow/CaminoSantiago_SN/text()"):
+		if i == "N":
+			contador += 1
+	return contador
+
 
 from lxml import etree
 doc = etree.parse('ciclismo.xml')
@@ -20,6 +27,9 @@ while True:
 		for loc,dif in nombreruta(doc):
 			if dif == "144":
 				print("Nombre de ruta:",loc)
+
+	if opcion=="2":
+		print("Número de rutas que no forman parte del camino de santiago:",contar_caminos(doc))
 
 	if opcion=="0":
 		break
