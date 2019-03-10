@@ -15,3 +15,11 @@ while True:
 0.- Salir''')
 
 	opcion = input("Opción:")
+
+	if opcion=="1":
+		for loc,dif in nombreruta(doc):
+			if dif == "144":
+				print("Nombre de ruta:",loc)
+
+	if opcion=="0":
+		break
