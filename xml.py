@@ -1,3 +1,9 @@
+def nombreruta(doc):
+	lista_loc = doc.xpath("/OpenData/OpenDataRow/Nombre/text()")
+	lista_dif = doc.xpath("/OpenData/OpenDataRow/IdDificultad/text()")
+	return zip(lista_loc,lista_dif)
+
+
 from lxml import etree
 doc = etree.parse('ciclismo.xml')
 while True:
