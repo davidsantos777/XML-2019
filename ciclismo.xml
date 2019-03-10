@@ -1,0 +1,2995 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<OpenData>
+  <OpenDataRow>
+    <Codrecurso>4132</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Bertiz-Doneztebe/Santesteban-Zubieta-Saldias-Doneztebe/Santesteban-Bertiz</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Bertiz-Doneztebe/Santesteban-Zubieta-Saldias-Doneztebe/Santesteban-Bertiz</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3136</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORONOZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4132FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>43,6</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4130</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Bertiz-Irurita-Ziga-Bertiz</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Bertiz-Irurita-Ziga-Bertiz</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3134</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORONOZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4130FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>22,9</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4131</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Bertiz-Zugarramurdi-Etxalar-Bertiz</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Bertiz-Zugarramurdi-Etxalar-Bertiz</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3135</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORONOZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4131FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>98</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4139</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Camino de Santiago 1: Orreaga/Roncesvalles-Pamplona</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Camino de Santiago 1: Orreaga/Roncesvalles-Pamplona</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3143</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORREAGA/RONCESVALLES</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4139FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>48</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4140</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Camino de Santiago 2: Pamplona-Viana</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Camino de Santiago 2: Pamplona-Viana</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3144</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>PAMPLONA</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4140FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>96</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4147</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Estella-Lizarra, Olite</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Estella-Lizarra, Olite</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3151</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ESTELLA-LIZARRA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4147FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>50</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4135</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Estella/Lizarra-Acedo-Urbiola-Estella/Lizarra</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Estella/Lizarra-Acedo-Urbiola-Estella/Lizarra</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3139</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ESTELLA-LIZARRA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4135FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>54</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4148</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Estella/Lizarra-Viana</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Estella/Lizarra-Viana</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3152</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ESTELLA-LIZARRA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4148FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>38</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4121</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Huarte-Erro-Urroz-Villa-Huarte</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Huarte-Erro-Urroz-Villa-Huarte</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3125</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>HUARTE</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4121FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>59,5</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4145</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Lekunberri-Estella-Lizarra (por Lizarraga)</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Lekunberri-Estella-Lizarra (por Lizarraga)</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3149</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4145FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>74</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4146</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Lekunberri-Estella/Lizarra (por Urbasa)</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Lekunberri-Estella/Lizarra (por Urbasa)</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3150</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4146FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>89</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4133</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Lekunberri-Irurtzun-Beruete-Lekunberri</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Lekunberri-Irurtzun-Beruete-Lekunberri</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3137</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4133FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>41</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4134</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Lekunberri-Irurtzun-Latasa-Lekunberri</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Lekunberri-Irurtzun-Latasa-Lekunberri</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3138</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4134FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>29</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4129</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Ochagavía-Irati-Ochagavía</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Ochagavía-Irati-Ochagavía</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3133</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>OCHAGAVÍA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4129FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>48</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4149</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Olite-Tudela</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Olite-Tudela</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3153</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>OLITE</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4149FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>62</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4138</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Olite-Ujué-Murillo el Fruto-Olite</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Olite-Ujué-Murillo el Fruto-Olite</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3142</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>OLITE</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4138FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>65,1</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4137</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Olite-Ujué-Olite</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Olite-Ujué-Olite</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3141</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>OLITE</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4137FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>37,2</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4123</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Orkoien-Etxauri-Guirguillano-Orkoien</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Orkoien-Etxauri-Guirguillano-Orkoien</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3127</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORKOIEN</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4123FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>66,5</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4119</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Orkoien-Marcaláin-Irurtzun-Orkoien</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Orkoien-Marcaláin-Irurtzun-Orkoien</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3123</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORKOIEN</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4119FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>57</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4143</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Orreaga/Roncesvalles-Señorío de Bertiz</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Orreaga/Roncesvalles-Señorío de Bertiz</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3147</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORREAGA/RONCESVALLES</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4143FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>66</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4127</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Roncal-Güesa-Gallués-Navascués-Roncal</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Roncal-Güesa-Gallués-Navascués-Roncal</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3131</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>RONCAL</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4127FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>69</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4128</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Roncal-Isaba-Ochagavía-Navascués-Burgui-Roncal</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Roncal-Isaba-Ochagavía-Navascués-Burgui-Roncal</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3132</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>RONCAL</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4128FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>81</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4142</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Roncal-Orreaga/Roncesvalles</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Roncal-Orreaga/Roncesvalles</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3146</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>RONCAL</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4142FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>76</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4124</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Sangüesa-Aibar-Cáseda-Sangüesa</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Sangüesa-Aibar-Cáseda-Sangüesa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3128</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>SANGÜESA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4124FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>27,5</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4125</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Sangüesa-Javier-Leyre-Venta de Judas-Sangüesa</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Sangüesa-Javier-Leyre-Venta de Judas-Sangüesa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3129</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>SANGÜESA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4125FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>47,8</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4126</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Sangüesa-Liédena-Leyre-Sangüesa</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Sangüesa-Liédena-Leyre-Sangüesa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3130</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>SANGÜESA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4126FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>34</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4141</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Sangüesa-Roncal</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Sangüesa-Roncal</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3145</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>SANGÜESA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4141FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>67</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4144</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Señorío de Bertiz-Lekunberri</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Señorío de Bertiz-Lekunberri</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3148</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ORONOZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4144FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>47</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4136</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Tudela-Corella-Fitero-Cascante-Tudela</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Tudela-Corella-Fitero-Cascante-Tudela</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3140</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>TUDELA</NombreLocalidad>
+    <DescripZona>La Ribera</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4136FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>55</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4151</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Tudela-Sangüesa</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Tudela-Sangüesa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3155</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>TUDELA</NombreLocalidad>
+    <DescripZona>La Ribera</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4151FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>94,5</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4150</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Viana-Tudela</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Viana-Tudela</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3154</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>VIANA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4150FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>94</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4120</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Vuelta a la Ultzama</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Vuelta a la Ultzama</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3124</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>HUARTE</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4120FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>46</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4122</Codrecurso>
+    <URLNombreCast>Bicicleta de carretera. Vuelta al Valle de Aranguren</URLNombreCast>
+    <Nombre>Bicicleta de carretera. Vuelta al Valle de Aranguren</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3126</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>HUARTE</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4122FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>33,5</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4155</Codrecurso>
+    <URLNombreCast>BTT Paseo por el Bocal y el Tarazonica</URLNombreCast>
+    <Nombre>BTT Paseo por el Bocal y el Tarazonica</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3159</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>TUDELA</NombreLocalidad>
+    <DescripZona>La Ribera</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4155FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4152</Codrecurso>
+    <URLNombreCast>BTT Paseo por el embalse de Irabia (Irati)</URLNombreCast>
+    <Nombre>BTT Paseo por el embalse de Irabia (Irati)</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3156</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>IRATI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4152FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud />
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4156</Codrecurso>
+    <URLNombreCast>BTT Paseo por las Bardenas</URLNombreCast>
+    <Nombre>BTT Paseo por las Bardenas</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3160</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ARGUEDAS</NombreLocalidad>
+    <DescripZona>La Ribera</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4156FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4154</Codrecurso>
+    <URLNombreCast>BTT Paseo por Valdeallín</URLNombreCast>
+    <Nombre>BTT Paseo por Valdeallín</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3158</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ESTELLA-LIZARRA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4154FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6380</Codrecurso>
+    <URLNombreCast>BTT Sendero por Urbasa</URLNombreCast>
+    <Nombre>BTT Sendero por Urbasa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6320</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>ZUDAIRE</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>6380FotoTH1.JPG</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4153</Codrecurso>
+    <URLNombreCast>BTT Vía Verde del Plazaola</URLNombreCast>
+    <Nombre>BTT Vía Verde del Plazaola</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3157</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>LEITZA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>4153FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4876</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Jaca. De Artieda a Sangüesa</URLNombreCast>
+    <Nombre>Camino de Santiago por Jaca. De Artieda a Sangüesa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3169</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4876FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>28</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4879</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Jaca. De Monreal a Puente la Reina</URLNombreCast>
+    <Nombre>Camino de Santiago por Jaca. De Monreal a Puente la Reina</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3171</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4879FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud />
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4878</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Jaca. De Sangüesa a Monreal</URLNombreCast>
+    <Nombre>Camino de Santiago por Jaca. De Sangüesa a Monreal</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3170</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4878FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud />
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4869</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Orreaga-Roncesvalles. De Orreaga-Roncesvalles a Zubiri.</URLNombreCast>
+    <Nombre>Camino de Santiago por Orreaga-Roncesvalles. De Orreaga-Roncesvalles a Zubiri.</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3162</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4869FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>22</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4868</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Orreaga-Roncesvalles. De St. Jean-Pied-de-Port a Orreaga/Roncesvalles.</URLNombreCast>
+    <Nombre>Camino de Santiago por Orreaga-Roncesvalles. De St. Jean-Pied-de-Port a Orreaga/Roncesvalles.</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3161</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4868FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>21</Longitud>
+    <IdDificultad>145</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4874</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Orreaga/Roncesvalles. De Estella-Lizarra a Los Arcos.</URLNombreCast>
+    <Nombre>Camino de Santiago por Orreaga/Roncesvalles. De Estella-Lizarra a Los Arcos.</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3167</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4874FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>24</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4875</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Orreaga/Roncesvalles. De Los Arcos a Logroño</URLNombreCast>
+    <Nombre>Camino de Santiago por Orreaga/Roncesvalles. De Los Arcos a Logroño</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3168</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4875FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>21</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4872</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Orreaga/Roncesvalles. De Pamplona a Puente la Reina</URLNombreCast>
+    <Nombre>Camino de Santiago por Orreaga/Roncesvalles. De Pamplona a Puente la Reina</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3165</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4872FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>23,5</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4873</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Orreaga/Roncesvalles. De Puente la Reina a Estella-Lizarra.</URLNombreCast>
+    <Nombre>Camino de Santiago por Orreaga/Roncesvalles. De Puente la Reina a Estella-Lizarra.</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3166</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4873FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>21</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4871</Codrecurso>
+    <URLNombreCast>Camino de Santiago por Orreaga/Roncesvalles. De Zubiri a Pamplona.</URLNombreCast>
+    <Nombre>Camino de Santiago por Orreaga/Roncesvalles. De Zubiri a Pamplona.</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3164</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4871FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>20</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5099</Codrecurso>
+    <URLNombreCast>El mundo de la Pelota</URLNombreCast>
+    <Nombre>El mundo de la Pelota</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5403</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\03\00\00\</Path>
+    <ImgFichero>5099FotoTH10.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>0.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6775</Codrecurso>
+    <URLNombreCast>Fin de semana de cine</URLNombreCast>
+    <Nombre>Fin de semana de cine</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria>092801</CodCategoria>
+    <IdRecursoCategoria>6651</IdRecursoCategoria>
+    <IDCATEGORIA>10060000</IDCATEGORIA>
+    <Path>10\06\00\00\</Path>
+    <ImgFichero>6775FotoTH1.JPG</ImgFichero>
+    <Tipo>Escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4108</Codrecurso>
+    <URLNombreCast>Laguna de Lor</URLNombreCast>
+    <Nombre>Laguna de Lor</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3119</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>BARILLAS</NombreLocalidad>
+    <DescripZona>La Ribera</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4108FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>610771</GEORR_X>
+    <GEORR_Y>4647395</GEORR_Y>
+    <Longitud>5,20</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3285</Codrecurso>
+    <URLNombreCast>Ruta  2 - De Orreaga/Roncesvalles a Pamplona</URLNombreCast>
+    <Nombre>Ruta  2 - De Orreaga/Roncesvalles a Pamplona</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5374</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3285FOTOTH1.JPG</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>638225</GEORR_X>
+    <GEORR_Y>4772546</GEORR_Y>
+    <Longitud>64.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3287</Codrecurso>
+    <URLNombreCast>Ruta  3 - Selva de Irati, valles de Aezkoa y Salazar</URLNombreCast>
+    <Nombre>Ruta  3 - Selva de Irati, valles de Aezkoa y Salazar</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5376</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3287FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>654456</GEORR_X>
+    <GEORR_Y>4761253</GEORR_Y>
+    <Longitud>72.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3288</Codrecurso>
+    <URLNombreCast>Ruta  4 - Valle de Baztan, cuevas de Urdazubi/Urdax y de Zugarramurdi</URLNombreCast>
+    <Nombre>Ruta  4 - Valle de Baztan, cuevas de Urdazubi/Urdax y de Zugarramurdi</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5377</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3288FotoTH2.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>616607</GEORR_X>
+    <GEORR_Y>4777468</GEORR_Y>
+    <Longitud>49.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3289</Codrecurso>
+    <URLNombreCast>Ruta  5 - Señorío de Bertiz y Regata del Bidasoa</URLNombreCast>
+    <Nombre>Ruta  5 - Señorío de Bertiz y Regata del Bidasoa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5378</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3289FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>612945</GEORR_X>
+    <GEORR_Y>4777009</GEORR_Y>
+    <Longitud>65.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3290</Codrecurso>
+    <URLNombreCast>Ruta  6 - Sierra de Aralar y valles de Leitzaran y Ultzama</URLNombreCast>
+    <Nombre>Ruta  6 - Sierra de Aralar y valles de Leitzaran y Ultzama</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5379</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3290FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>589991</GEORR_X>
+    <GEORR_Y>4761909</GEORR_Y>
+    <Longitud>80.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3291</Codrecurso>
+    <URLNombreCast>Ruta  7 - Sangüesa, castillo de Javier, monasterio de Leyre, foces de Lumbier y Arbaiun y valle de Roncal</URLNombreCast>
+    <Nombre>Ruta  7 - Sangüesa, castillo de Javier, monasterio de Leyre, foces de Lumbier y Arbaiun y valle de Roncal</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5380</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3291FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>641079</GEORR_X>
+    <GEORR_Y>4715118</GEORR_Y>
+    <Longitud>88.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3292</Codrecurso>
+    <URLNombreCast>Ruta  8: Olite, Ujué, monasterio de la Oliva y la Valdorba</URLNombreCast>
+    <Nombre>Ruta  8: Olite, Ujué, monasterio de la Oliva y la Valdorba</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5381</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3292FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>611031</GEORR_X>
+    <GEORR_Y>4703869</GEORR_Y>
+    <Longitud>106.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3286</Codrecurso>
+    <URLNombreCast>Ruta  9 - Eunate, Puente la Reina, Estella-Lizarra, monasterio de Iratxe, Los Arcos, Torres del Río, Viana y Parque Natural de Urbasa-Andía</URLNombreCast>
+    <Nombre>Ruta  9 - Eunate, Puente la Reina, Estella-Lizarra, monasterio de Iratxe, Los Arcos, Torres del Río, Viana y Parque Natural de Urbasa-Andía</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5375</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3286FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>608276</GEORR_X>
+    <GEORR_Y>4738094</GEORR_Y>
+    <Longitud>77.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>3293</Codrecurso>
+    <URLNombreCast>Ruta 10 - Bardenas Reales, Tudela y monasterio de Fitero</URLNombreCast>
+    <Nombre>Ruta 10 - Bardenas Reales, Tudela y monasterio de Fitero</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5382</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\01\00\00\</Path>
+    <ImgFichero>3293FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>616259</GEORR_X>
+    <GEORR_Y>4668961</GEORR_Y>
+    <Longitud>111.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4798</Codrecurso>
+    <URLNombreCast>Ruta de Ernest Miller Hemingway</URLNombreCast>
+    <Nombre>Ruta de Ernest Miller Hemingway</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5383</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <NombreLocalidad>PAMPLONA</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>10\03\00\00\</Path>
+    <ImgFichero>4798FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>0.00</Longitud>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4802</Codrecurso>
+    <URLNombreCast>Ruta de la Brujería</URLNombreCast>
+    <Nombre>Ruta de la Brujería</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5384</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\03\00\00\</Path>
+    <ImgFichero>4802FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>222.00</Longitud>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5411</Codrecurso>
+    <URLNombreCast>Ruta de los Castillos y Fortalezas de Navarra</URLNombreCast>
+    <Nombre>Ruta de los Castillos y Fortalezas de Navarra</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5405</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\03\00\00\</Path>
+    <ImgFichero>5411FotoTH10.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5873</Codrecurso>
+    <URLNombreCast>Ruta de los Paisajes de Navarra. Agua y Miradores</URLNombreCast>
+    <Nombre>Ruta de los Paisajes de Navarra. Agua y Miradores</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5759</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\00\00\00\</Path>
+    <ImgFichero>5873FotoTH1.JPG</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4803</Codrecurso>
+    <URLNombreCast>Ruta del Carlismo</URLNombreCast>
+    <Nombre>Ruta del Carlismo</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5385</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\03\00\00\</Path>
+    <ImgFichero>4803FotoTH1.jpg</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6527</Codrecurso>
+    <URLNombreCast>Ruta del Renacimiento en la Navarra Media</URLNombreCast>
+    <Nombre>Ruta del Renacimiento en la Navarra Media</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6410</IdRecursoCategoria>
+    <IDCATEGORIA>10000000</IDCATEGORIA>
+    <Path>10\00\00\00\</Path>
+    <ImgFichero>6527FotoTH1.JPG</ImgFichero>
+    <Tipo>Rutas y escapadas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6928</Codrecurso>
+    <URLNombreCast>Ruta Navarra de Cine</URLNombreCast>
+    <Nombre>Ruta Navarra de Cine</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6810</IdRecursoCategoria>
+    <IDCATEGORIA>10070000</IDCATEGORIA>
+    <Path>10\07\00\00\</Path>
+    <ImgFichero>6928FotoTH10.JPG</ImgFichero>
+    <Tipo>Rutas</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5451</Codrecurso>
+    <URLNombreCast>Sendero a la necrópolis de Induriaga</URLNombreCast>
+    <Nombre>Sendero a la necrópolis de Induriaga</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3182</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>AOIZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5451FotoTH3.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>633243</GEORR_X>
+    <GEORR_Y>4738337</GEORR_Y>
+    <Longitud />
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5148</Codrecurso>
+    <URLNombreCast>Sendero adaptado de Leurtza</URLNombreCast>
+    <Nombre>Sendero adaptado de Leurtza</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3179</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>URROZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5148FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>2</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5116</Codrecurso>
+    <URLNombreCast>Sendero adaptado de Urbasa</URLNombreCast>
+    <Nombre>Sendero adaptado de Urbasa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3172</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OLAZTI/OLAZAGUTIA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5116FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>567588</GEORR_X>
+    <GEORR_Y>4744672</GEORR_Y>
+    <Longitud>0,85</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4056</Codrecurso>
+    <URLNombreCast>Sendero altos de Abodi</URLNombreCast>
+    <Nombre>Sendero altos de Abodi</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3075</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OCHAGAVÍA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4056FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>6,25</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4057</Codrecurso>
+    <URLNombreCast>Sendero Arlekia-Lauzaran</URLNombreCast>
+    <Nombre>Sendero Arlekia-Lauzaran</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3076</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ORBAITZETAKO OLA/FÁBRICA DE ORBAITZETA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4057FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>644437</GEORR_X>
+    <GEORR_Y>4763397</GEORR_Y>
+    <Longitud>6,52</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5516</Codrecurso>
+    <URLNombreCast>Sendero Ateas de Basaburua</URLNombreCast>
+    <Nombre>Sendero Ateas de Basaburua</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3187</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5516FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>18,5</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4058</Codrecurso>
+    <URLNombreCast>Sendero camino a Irati y Muskilda</URLNombreCast>
+    <Nombre>Sendero camino a Irati y Muskilda</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3077</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OCHAGAVÍA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4058FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>655898</GEORR_X>
+    <GEORR_Y>4752136</GEORR_Y>
+    <Longitud>6,84</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5519</Codrecurso>
+    <URLNombreCast>Sendero Camino de Arribe a Uba</URLNombreCast>
+    <Nombre>Sendero Camino de Arribe a Uba</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3190</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ARRIBE</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5519FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>8,4</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4053</Codrecurso>
+    <URLNombreCast>Sendero camino de Zemeto</URLNombreCast>
+    <Nombre>Sendero camino de Zemeto</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3072</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ISABA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4053FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>677610</GEORR_X>
+    <GEORR_Y>4755069</GEORR_Y>
+    <Longitud>4,23</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4063</Codrecurso>
+    <URLNombreCast>Sendero cascada de Xorroxin</URLNombreCast>
+    <Nombre>Sendero cascada de Xorroxin</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3082</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ERRATZU</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4063FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>625446</GEORR_X>
+    <GEORR_Y>4782077</GEORR_Y>
+    <Longitud>5,60</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5871</Codrecurso>
+    <URLNombreCast>Sendero Cascada del Cubo</URLNombreCast>
+    <Nombre>Sendero Cascada del Cubo</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5757</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OCHAGAVÍA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5871FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>2,6</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>7105</Codrecurso>
+    <URLNombreCast>Sendero Cruz de Maurién</URLNombreCast>
+    <Nombre>Sendero Cruz de Maurién</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6981</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LORCA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>7105FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>8,2</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5143</Codrecurso>
+    <URLNombreCast>Sendero de Alkurrunz</URLNombreCast>
+    <Nombre>Sendero de Alkurrunz</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3178</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>AMAIUR/MAYA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5143FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>7,27</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5122</Codrecurso>
+    <URLNombreCast>Sendero de Azoleta-Satanerreka</URLNombreCast>
+    <Nombre>Sendero de Azoleta-Satanerreka</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3175</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LUZAIDE/VALCARLOS</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5122FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>4,22</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5120</Codrecurso>
+    <URLNombreCast>Sendero de Basari y Foz de Burgui</URLNombreCast>
+    <Nombre>Sendero de Basari y Foz de Burgui</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3173</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>BURGUI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5120FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>8,86</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6016</Codrecurso>
+    <URLNombreCast>Sendero de Errekaidorra</URLNombreCast>
+    <Nombre>Sendero de Errekaidorra</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5946</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OCHAGAVÍA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6016FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>9</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5820</Codrecurso>
+    <URLNombreCast>Sendero de Gartxot</URLNombreCast>
+    <Nombre>Sendero de Gartxot</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5669</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>IZALZU</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5820FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>11,3</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5870</Codrecurso>
+    <URLNombreCast>Sendero de Goikola</URLNombreCast>
+    <Nombre>Sendero de Goikola</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5756</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5870FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>0,50</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5515</Codrecurso>
+    <URLNombreCast>Sendero de Goikozuloa</URLNombreCast>
+    <Nombre>Sendero de Goikozuloa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3186</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5515FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>14,80 </Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5588</Codrecurso>
+    <URLNombreCast>Sendero de Iturraskarri</URLNombreCast>
+    <Nombre>Sendero de Iturraskarri</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3194</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5588FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud />
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>7104</Codrecurso>
+    <URLNombreCast>Sendero de la Cañada Real Tauste-Andia</URLNombreCast>
+    <Nombre>Sendero de la Cañada Real Tauste-Andia</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6980</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ARIZALA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>7104FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>11,5</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6534</Codrecurso>
+    <URLNombreCast>Sendero de las 3 ermitas</URLNombreCast>
+    <Nombre>Sendero de las 3 ermitas</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6416</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>MUNIÁIN DE GUESÁLAZ</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6534FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>7,04</Longitud>
+    <IdDificultad />
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5139</Codrecurso>
+    <URLNombreCast>Sendero de las cuevas</URLNombreCast>
+    <Nombre>Sendero de las cuevas</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3177</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>URDAZUBI/URDAX</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5139FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>6,89</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5135</Codrecurso>
+    <URLNombreCast>Sendero de las Palomeras</URLNombreCast>
+    <Nombre>Sendero de las Palomeras</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3176</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ETXALAR</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5135FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>5,20</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4072</Codrecurso>
+    <URLNombreCast>Sendero de Leitzalarrea</URLNombreCast>
+    <Nombre>Sendero de Leitzalarrea</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3091</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEITZA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4072FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>588681</GEORR_X>
+    <GEORR_Y>4774237</GEORR_Y>
+    <Longitud>6,60</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4078</Codrecurso>
+    <URLNombreCast>Sendero de los Dólmenes</URLNombreCast>
+    <Nombre>Sendero de los Dólmenes</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3097</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ETXARRI-ARANATZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4078FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>575140</GEORR_X>
+    <GEORR_Y>4751517</GEORR_Y>
+    <Longitud>14,9</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6379</Codrecurso>
+    <URLNombreCast>Sendero de los Dólmenes de Améscoa</URLNombreCast>
+    <Nombre>Sendero de los Dólmenes de Améscoa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6319</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ZUDAIRE</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6379FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>12,10</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6482</Codrecurso>
+    <URLNombreCast>Sendero de los Robles Monumentales</URLNombreCast>
+    <Nombre>Sendero de los Robles Monumentales</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6382</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>IRAÑETA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6482FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>3,4</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6484</Codrecurso>
+    <URLNombreCast>Sendero de los Robles Singulares</URLNombreCast>
+    <Nombre>Sendero de los Robles Singulares</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6383</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ETXARRI-ARANATZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6484FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>5,3</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4070</Codrecurso>
+    <URLNombreCast>Sendero de Orgi</URLNombreCast>
+    <Nombre>Sendero de Orgi</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3089</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LIZASO</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4070FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>608555</GEORR_X>
+    <GEORR_Y>4757469</GEORR_Y>
+    <Longitud>8,40</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>7107</Codrecurso>
+    <URLNombreCast>Sendero de Peñas de Azanza</URLNombreCast>
+    <Nombre>Sendero de Peñas de Azanza</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6983</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ABÁRZUZA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>7107FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>15,4</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4077</Codrecurso>
+    <URLNombreCast>Sendero de San Miguel de Aralar</URLNombreCast>
+    <Nombre>Sendero de San Miguel de Aralar</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3096</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>IRIBAS</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4077FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>589210</GEORR_X>
+    <GEORR_Y>4760152</GEORR_Y>
+    <Longitud>20</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4086</Codrecurso>
+    <URLNombreCast>Sendero de Sobazo</URLNombreCast>
+    <Nombre>Sendero de Sobazo</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3105</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LOS ARCOS</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4086FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>566349</GEORR_X>
+    <GEORR_Y>4713243</GEORR_Y>
+    <Longitud>7</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4083</Codrecurso>
+    <URLNombreCast>Sendero del cañón del río Irantzu</URLNombreCast>
+    <Nombre>Sendero del cañón del río Irantzu</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3102</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ABÁRZUZA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4083FotoTH2.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>578590</GEORR_X>
+    <GEORR_Y>4733648</GEORR_Y>
+    <Longitud>4,40 </Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5154</Codrecurso>
+    <URLNombreCast>Sendero del cañón del río Ubagua</URLNombreCast>
+    <Nombre>Sendero del cañón del río Ubagua</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3181</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>RIEZU</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5154FotoTH10.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>5,70</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5872</Codrecurso>
+    <URLNombreCast>Sendero del Embalse de Eugi</URLNombreCast>
+    <Nombre>Sendero del Embalse de Eugi</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5758</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>EUGI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5872FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>2,18</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4074</Codrecurso>
+    <URLNombreCast>Sendero del nacedero del Larraun-Iribas</URLNombreCast>
+    <Nombre>Sendero del nacedero del Larraun-Iribas</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3093</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>IRIBAS</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4074FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>589161</GEORR_X>
+    <GEORR_Y>4760090</GEORR_Y>
+    <Longitud>5</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4103</Codrecurso>
+    <URLNombreCast>Sendero del pozo de las hiedras</URLNombreCast>
+    <Nombre>Sendero del pozo de las hiedras</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3114</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>AIBAR</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4103FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>634506</GEORR_X>
+    <GEORR_Y>4716817</GEORR_Y>
+    <Longitud>6,77</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6532</Codrecurso>
+    <URLNombreCast>Sendero El Barranco de Erbioz</URLNombreCast>
+    <Nombre>Sendero El Barranco de Erbioz</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6414</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEZÁUN</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6532FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>7,40</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5822</Codrecurso>
+    <URLNombreCast>Sendero el Camino del Molino</URLNombreCast>
+    <Nombre>Sendero el Camino del Molino</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5671</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>JAURRIETA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5822FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>7,7</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6535</Codrecurso>
+    <URLNombreCast>Sendero El hechizo de la calzada romana</URLNombreCast>
+    <Nombre>Sendero El hechizo de la calzada romana</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6417</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>GARÍSOAIN</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6535FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>7,30</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6533</Codrecurso>
+    <URLNombreCast>Sendero Elimendi</URLNombreCast>
+    <Nombre>Sendero Elimendi</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6415</IdRecursoCategoria>
+    <IDCATEGORIA>03020200</IDCATEGORIA>
+    <NombreLocalidad>MUEZ</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\02\00\</Path>
+    <ImgFichero>6533FotoTH1.JPG</ImgFichero>
+    <Tipo>Rutas de cicloturismo</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4054</Codrecurso>
+    <URLNombreCast>Sendero embalse de Irabia y Paraísos</URLNombreCast>
+    <Nombre>Sendero embalse de Irabia y Paraísos</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3073</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>IRABIAKO UHARKA/PANTANO DE IRABIA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4054FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>650906</GEORR_X>
+    <GEORR_Y>4761183</GEORR_Y>
+    <Longitud>11,30</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5470</Codrecurso>
+    <URLNombreCast>Sendero Embalses de Leurtza</URLNombreCast>
+    <Nombre>Sendero Embalses de Leurtza</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3184</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>URROZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5470FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>604794</GEORR_X>
+    <GEORR_Y>4769721</GEORR_Y>
+    <Longitud>3,5</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4081</Codrecurso>
+    <URLNombreCast>Sendero Fluvial de la Comarca de Pamplona</URLNombreCast>
+    <Nombre>Sendero Fluvial de la Comarca de Pamplona</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3100</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>PAMPLONA</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4081FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>612679</GEORR_X>
+    <GEORR_Y>4741894</GEORR_Y>
+    <Longitud>36,8</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>7106</Codrecurso>
+    <URLNombreCast>Sendero Hayedo de Lezáun</URLNombreCast>
+    <Nombre>Sendero Hayedo de Lezáun</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6982</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEZÁUN</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>7106FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>9</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5869</Codrecurso>
+    <URLNombreCast>Sendero Infernuko Erreka</URLNombreCast>
+    <Nombre>Sendero Infernuko Erreka</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5755</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEKAROZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5869FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>5,10</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6378</Codrecurso>
+    <URLNombreCast>Sendero Itinerario de la Nevera</URLNombreCast>
+    <Nombre>Sendero Itinerario de la Nevera</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6318</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ZUDAIRE</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6378FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>8,30</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4080</Codrecurso>
+    <URLNombreCast>Sendero Itinerario de las Fuentes</URLNombreCast>
+    <Nombre>Sendero Itinerario de las Fuentes</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3099</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ZUDAIRE</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4080FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>567190</GEORR_X>
+    <GEORR_Y>4745626</GEORR_Y>
+    <Longitud> 4,50</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4079</Codrecurso>
+    <URLNombreCast>Sendero Itinerario de los Montañeros</URLNombreCast>
+    <Nombre>Sendero Itinerario de los Montañeros</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3098</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OLAZTI/OLAZAGUTIA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4079FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>567125</GEORR_X>
+    <GEORR_Y>4745633</GEORR_Y>
+    <Longitud>3,80</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5468</Codrecurso>
+    <URLNombreCast>Sendero Itinerario de los pastores</URLNombreCast>
+    <Nombre>Sendero Itinerario de los pastores</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3183</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OLAZTI/OLAZAGUTIA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5468FotoTH2.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>567588</GEORR_X>
+    <GEORR_Y>4744672</GEORR_Y>
+    <Longitud>7,6</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4068</Codrecurso>
+    <URLNombreCast>Sendero Iturburua-Bertiz</URLNombreCast>
+    <Nombre>Sendero Iturburua-Bertiz</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3087</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OIEREGI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4068FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>612755</GEORR_X>
+    <GEORR_Y>4777096</GEORR_Y>
+    <Longitud>6,50 </Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4055</Codrecurso>
+    <URLNombreCast>Sendero Koixta y Akerreria</URLNombreCast>
+    <Nombre>Sendero Koixta y Akerreria</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3074</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>IRATI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4055FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>654394</GEORR_X>
+    <GEORR_Y>4761280</GEORR_Y>
+    <Longitud>11,15 </Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4069</Codrecurso>
+    <URLNombreCast>Sendero Leurtzako Basoa- Bosque de Leurtza</URLNombreCast>
+    <Nombre>Sendero Leurtzako Basoa- Bosque de Leurtza</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3088</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>URROZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4069FotoTH2.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>605031</GEORR_X>
+    <GEORR_Y>4769316</GEORR_Y>
+    <Longitud>9</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6652</Codrecurso>
+    <URLNombreCast>Sendero Megalitos de Iruso</URLNombreCast>
+    <Nombre>Sendero Megalitos de Iruso</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6540</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEITZA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6652FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>2,5</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4101</Codrecurso>
+    <URLNombreCast>Sendero Micológico de Unzué</URLNombreCast>
+    <Nombre>Sendero Micológico de Unzué</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3112</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>UNZUÉ</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4101FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>612607</GEORR_X>
+    <GEORR_Y>4723167</GEORR_Y>
+    <Longitud>11,63</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5471</Codrecurso>
+    <URLNombreCast>Sendero mirador de Albiasu</URLNombreCast>
+    <Nombre>Sendero mirador de Albiasu</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3185</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5471FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>589952</GEORR_X>
+    <GEORR_Y>4762035</GEORR_Y>
+    <Longitud>11 </Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4059</Codrecurso>
+    <URLNombreCast>Sendero mirador de Erondoa</URLNombreCast>
+    <Nombre>Sendero mirador de Erondoa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3078</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>GARRALDA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4059FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>639789</GEORR_X>
+    <GEORR_Y>4756446</GEORR_Y>
+    <Longitud>5,50</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5517</Codrecurso>
+    <URLNombreCast>Sendero Parque Eólico de Kornieta</URLNombreCast>
+    <Nombre>Sendero Parque Eólico de Kornieta</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3188</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEITZA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5517FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>10,5 </Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4104</Codrecurso>
+    <URLNombreCast>Sendero paseo de Rocaforte</URLNombreCast>
+    <Nombre>Sendero paseo de Rocaforte</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3115</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ROCAFORTE</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4104FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>640352</GEORR_X>
+    <GEORR_Y>4716897</GEORR_Y>
+    <Longitud>5,33</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5821</Codrecurso>
+    <URLNombreCast>Sendero Paseo del Robrar</URLNombreCast>
+    <Nombre>Sendero Paseo del Robrar</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5670</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ICIZ</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5821FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>7,3</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5587</Codrecurso>
+    <URLNombreCast>Sendero por los antiguos caminos de Araitz-Betelu-Errazkin</URLNombreCast>
+    <Nombre>Sendero por los antiguos caminos de Araitz-Betelu-Errazkin</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3193</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5587FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>20,2</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5520</Codrecurso>
+    <URLNombreCast>Sendero Robles Monumentales de Jauntsarats</URLNombreCast>
+    <Nombre>Sendero Robles Monumentales de Jauntsarats</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3191</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>JAUNTSARATS</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5520FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>1,9</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4061</Codrecurso>
+    <URLNombreCast>Sendero Vía Verde de la Foz de Lumbier</URLNombreCast>
+    <Nombre>Sendero Vía Verde de la Foz de Lumbier</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3080</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LUMBIER</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4061FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>S</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>638775</GEORR_X>
+    <GEORR_Y>4722008</GEORR_Y>
+    <Longitud>6,38</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5832</Codrecurso>
+    <URLNombreCast>Sendero Vía verde del ferrocarril Vasco-Navarro</URLNombreCast>
+    <Nombre>Sendero Vía verde del ferrocarril Vasco-Navarro</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5686</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ZÚÑIGA</NombreLocalidad>
+    <DescripZona>Zona Media</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5832FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>578999</GEORR_X>
+    <GEORR_Y>4724873</GEORR_Y>
+    <Longitud>27</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4110</Codrecurso>
+    <URLNombreCast>Sendero Vía Verde del Plazaola</URLNombreCast>
+    <Nombre>Sendero Vía Verde del Plazaola</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3121</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEKUNBERRI</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4110FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>590506</GEORR_X>
+    <GEORR_Y>4761579</GEORR_Y>
+    <Longitud>22</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4111</Codrecurso>
+    <URLNombreCast>Sendero Vía Verde del Tarazonica</URLNombreCast>
+    <Nombre>Sendero Vía Verde del Tarazonica</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3122</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>TUDELA</NombreLocalidad>
+    <DescripZona>La Ribera</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4111FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>616058</GEORR_X>
+    <GEORR_Y>4657269</GEORR_Y>
+    <Longitud>13,02</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>SI</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>4082</Codrecurso>
+    <URLNombreCast>Sendero vuelta a Val de Ollo</URLNombreCast>
+    <Nombre>Sendero vuelta a Val de Ollo</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>3101</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>OLLO</NombreLocalidad>
+    <DescripZona>Cuenca de Pamplona</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>4082FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>593268</GEORR_X>
+    <GEORR_Y>4746687</GEORR_Y>
+    <Longitud>18,82</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>6485</Codrecurso>
+    <URLNombreCast>Senderos del Centro de Montaña Valle de Roncal</URLNombreCast>
+    <Nombre>Senderos del Centro de Montaña Valle de Roncal</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>6384</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>ISABA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>6485FotoTH1.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>0</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud />
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5818</Codrecurso>
+    <URLNombreCast>Senderos por Imotz y Basaburua</URLNombreCast>
+    <Nombre>Senderos por Imotz y Basaburua</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5665</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5818FotoTH2.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud>34,5</Longitud>
+    <IdDificultad>144</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5823</Codrecurso>
+    <URLNombreCast>Senderos por la Ribera</URLNombreCast>
+    <Nombre>Senderos por la Ribera</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5674</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>TUDELA</NombreLocalidad>
+    <DescripZona>La Ribera</DescripZona>
+    <Path>03\02\01\00\</Path>
+    <ImgFichero>5823FotoTH2.JPG</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>19</GEORR_X>
+    <GEORR_Y>0</GEORR_Y>
+    <Longitud />
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+  <OpenDataRow>
+    <Codrecurso>5362</Codrecurso>
+    <URLNombreCast>Vía Verde del Bidasoa</URLNombreCast>
+    <Nombre>Vía Verde del Bidasoa</Nombre>
+    <Buscador>NN</Buscador>
+    <URLNombreBuscador>Desconocido</URLNombreBuscador>
+    <CodCategoria />
+    <IdRecursoCategoria>5689</IdRecursoCategoria>
+    <IDCATEGORIA>03020100</IDCATEGORIA>
+    <NombreLocalidad>LEGASA</NombreLocalidad>
+    <DescripZona>Pirineos</DescripZona>
+    <Path>05\01\08\00\</Path>
+    <ImgFichero>5362FotoTH1.jpg</ImgFichero>
+    <Tipo>Senderos</Tipo>
+    <CaminoSantiago_SN>N</CaminoSantiago_SN>
+    <Birding_SN>N</Birding_SN>
+    <GEORR_X>610190</GEORR_X>
+    <GEORR_Y>4776116</GEORR_Y>
+    <Longitud>35</Longitud>
+    <IdDificultad>143</IdDificultad>
+    <DIPLOMACOMPROMISO>NO</DIPLOMACOMPROMISO>
+  </OpenDataRow>
+</OpenData>
